@@ -312,11 +312,11 @@ Use [Github Copilot](https://github.com/features/copilot) for all coding (Python
 - [MIT: The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - Great example of a full ML project ([Part 1](https://github.com/WillKoehrsen/machine-learning-project-walkthrough/blob/master/Machine%20Learning%20Project%20Part%201.ipynb), [Part 2](https://github.com/WillKoehrsen/machine-learning-project-walkthrough/blob/master/Machine%20Learning%20Project%20Part%202.ipynb), [Part 3](https://github.com/WillKoehrsen/machine-learning-project-walkthrough/blob/master/Machine%20Learning%20Project%20Part%203.ipynb)) from Will Koehrsen. Steps 1-3 is in Part 1, Steps 4-6 is in Part 2 and Steps 7-8 is in Part 3.
 
-1. Data cleaning and formatting
-2. Exploratory data analysis
-3. Feature engineering and selection
-4. Compare several machine learning models on a performance metric
-5. Perform hyperparameter tuning on the best model to optimize it for the problem
-6. Evaluate the best model on the testing set
-7. Interpret the model results to the extent possible
-8. Draw conclusions and write a well-documented report
+	1. Data cleaning and formatting
+	2. Exploratory data analysis
+	3. Feature engineering and selection
+	4. Compare several machine learning models on a performance metric
+	5. Perform hyperparameter tuning on the best model to optimize it for the problem
+	6. Evaluate the best model on the testing set
+	7. Interpret the model results to the extent possible
+	8. Draw conclusions and write a well-documented report
