@@ -116,6 +116,10 @@ Hadley Wickham's [tidy data paper](https://vita.had.co.nz/papers/tidy-data.pdf) 
 Read the original paper: https://vita.had.co.nz/papers/tidy-data.pdf
 Work through some Python examples: https://byuidatascience.github.io/python4ds/tidy-data.html
 
+# SQL
+
+This is one of the most important skills for a data scientist as most of the data lives in databases. Therefore, being able to extract and manipulate data using SQL is crucial. Mode Analytics provides a good tutorial. Start with the intermediate one. https://mode.com/sql-tutorial/
+
 # madewithml (parts 1, 2 and 3)
 
 
@@ -320,3 +324,27 @@ Use [Github Copilot](https://github.com/features/copilot) for all coding (Python
 	6. Evaluate the best model on the testing set
 	7. Interpret the model results to the extent possible
 	8. Draw conclusions and write a well-documented report
+
+
+# Continue to Learn
+
+Remember, the field of data science is vast and constantly evolving. The most important skill to develop is the ability to learn and adapt to new tools, technologies, and techniques. Here are some resources to help you continue to learn:
+
+## YouTube
+
+- [@lexfridman](https://www.youtube.com/@lexfridman) - and associated [transcripts](https://karpathy.ai/lexicap/)
+- [@AndrejKarpathy](https://www.youtube.com/c/AndrejKarpathy)
+- [@jamesbriggs](https://www.youtube.com/@jamesbriggs)
+- [@ai-explained-](https://www.youtube.com/@ai-explained-)
+
+## Twitter
+
+- [@jeremyphoward](https://twitter.com/jeremyphoward)
+- [@radekosmulski](https://twitter.com/radekosmulski)
+- [@omarsar0](https://twitter.com/omarsar0)
+
+## Blogs
+
+- [Jay Alammar](http://jalammar.github.io/)
+- [Eric J Ma](https://ericmjl.github.io/)
+- [Brandon Rohrer](https://e2eml.school/blog.html)
