@@ -155,7 +155,7 @@ Work through some Python examples: https://byuidatascience.github.io/python4ds/t
 			<td><strong>📈&nbsp; Modeling</strong></td>
 		</tr>
 		<tr>
-			<td>&nbsp;<a href="https://madewithml.com/courses/mlops/baselines/">Baselines</a></td>
+			<td><a href="https://madewithml.com/courses/mlops/baselines/">Baselines</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://madewithml.com/courses/mlops/evaluation/">Evaluation</a></td>
