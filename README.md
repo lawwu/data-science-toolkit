@@ -97,6 +97,8 @@ Read through Reproducibility section of madewithml's MLOps course
 	</tbody>
 </table>
 
+Sometimes you will run into merge conflicts, read this [guide from Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) for how to resolve them.
+
 ## Docker
 
 - https://valohai.com/blog/docker-for-data-science/
