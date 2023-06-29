@@ -232,7 +232,8 @@ Work through Steps 0-7 in the official PyTorch guide: https://pytorch.org/tutori
 
 # Github Copilot
 
-Use [Github Copilot](https://github.com/features/copilot) for all coding (Python, Jupyter, SQL, etc.). I estimate it makes me 20% more productive for all programming tasks.
+- Use [Github Copilot](https://github.com/features/copilot) for all coding (Python, Jupyter, SQL, etc.). I estimate it makes me 20% more productive for all programming tasks.
+- Use [Jupyter in VS Code to use Copilot in Jupyter notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 # madewithml (parts 5 and 6)
 
