@@ -44,29 +44,26 @@ Ideally a new data science hire would go through these resources in the first 30
     <tr>
         <td><a href="https://madewithml.com/courses/foundations/notebooks/">Notebooks</a></td>
         <td><a href="https://madewithml.com/courses/foundations/linear-regression/">Linear Regression</a></td>
-        <td><a href="https://madewithml.com/courses/foundations/convolutional-neural-networks/">CNNs</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/foundations/python/">Python</a></td>
         <td><a href="https://madewithml.com/courses/foundations/logistic-regression/">Logistic Regression</a></td>
-        <td><a href="https://madewithml.com/courses/foundations/embeddings/">Embeddings</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/foundations/numpy/">NumPy</a></td>
         <td><a href="https://madewithml.com/courses/foundations/neural-networks/">Neural Network</a></td>
-        <td><a href="https://madewithml.com/courses/foundations/recurrent-neural-networks/">RNNs</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/foundations/pandas/">Pandas</a></td>
         <td><a href="https://madewithml.com/courses/foundations/data-quality/">Data Quality</a></td>
-        <td><a href="https://madewithml.com/courses/foundations/attention/">Attention</a></td>
     </tr>
     <tr>
         <td><a href="https://madewithml.com/courses/foundations/pytorch/">PyTorch</a></td>
         <td><a href="https://madewithml.com/courses/foundations/utilities/">Utilities</a></td>
-        <td><a href="https://madewithml.com/courses/foundations/transformers/">Transformers</a></td>
     </tr>
 </table>
+
+Left out MadewithML's material on Attention, Embeddings and Transformers because Jay Alammar's blog posts are better.
 
 ## Command Line
 There's many tutorials but this one is decent https://www.freecodecamp.org/news/command-line-for-beginners/
