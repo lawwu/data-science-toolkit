@@ -226,6 +226,10 @@ Work through Steps 0-7 in the official PyTorch guide: https://pytorch.org/tutori
 - Learn by working through the [official example](https://docs.streamlit.io/library/get-started/create-an-app)
 - [Streamlit Cheatsheet](https://docs.streamlit.io/library/cheatsheet)
 
+[@karpathy also recommends](https://twitter.com/karpathy/status/1671253733328719872) spending a couple hours learning Streamlit
+
+[Gradio](https://github.com/gradio-app/gradio) is a similar library from Hugging Face.
+
 # Github Copilot
 
 Use [Github Copilot](https://github.com/features/copilot) for all coding (Python, Jupyter, SQL, etc.). I estimate it makes me 20% more productive for all programming tasks.
